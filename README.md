@@ -1,4 +1,4 @@
-**Student Exam Management Database**
+**Student Exam Management Database**:
 _**Overview**_
 Welcome to the Student Exam Management Database project! This database is designed to streamline the management of student exams, invigilator assignments, and educational resources for a semester. It aims to enhance the experience for students, invigilators, and educational institutions by providing easy access to essential information.
 
